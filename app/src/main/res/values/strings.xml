@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prime Checker</string>
+    <string name="prime_number">Prime Number? </string>
+    <string name="primeoutput">Is %s prime? %s</string>
+</resources>
